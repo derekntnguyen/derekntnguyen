@@ -23,7 +23,7 @@ I'm **Derek**, a Data Scientist and Machine Learning Engineer, specializing in b
 
 - I'm always open to learning something new.
 
-- In my free time, I like to play video games, and catch up on the latest tv shows.
+- In my free time, I like to cook, play video games, and catch up on the latest tv shows.
 
 Thanks for stopping by!
 
