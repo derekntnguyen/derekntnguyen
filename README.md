@@ -15,14 +15,12 @@
 
 # :book: About me:
 
-I'm **Derek**, a Data Scientist and Machine Learning Engineer, specializing in building machine learning models and deploying them as containerized web services.
+I'm **Derek**, a Data Scientist and Machine Learning Engineer. 
 
+- I specialize in building machine learning models and deploying them as containerized web services.
 - I'm passionate about using data to understand unique problems, and using machine learning to provide value driven solutions. 
-
 - My GitHub is filled with my many side projects that consist of ideas that pop into my mind that I want to explore and test drive.
-
 - I'm always open to learning something new.
-
 - In my free time, I like to cook, play video games, and catch up on the latest tv shows.
 
 Thanks for stopping by!
