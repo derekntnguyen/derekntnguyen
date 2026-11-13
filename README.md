@@ -21,7 +21,7 @@ I'm **Derek**, a Machine Learning Engineer.
 - I'm passionate about using data to understand unique problems, and using machine learning to provide value driven solutions. 
 - My GitHub is filled with my many side projects that consist of ideas that pop into my mind that I want to explore and test drive.
 - I'm always open to learning something new.
-- In my free time, I like to cook, play video games, and catch up on the latest tv shows.
+- In my free time, I like to photograph and spot airplanes, play video games, and cook.
 
 Thanks for stopping by!
 
