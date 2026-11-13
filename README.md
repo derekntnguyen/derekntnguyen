@@ -15,7 +15,7 @@
 
 # :book: About me:
 
-I'm **Derek**, a Data Scientist and Machine Learning Engineer. 
+I'm **Derek**, a Machine Learning Engineer. 
 
 - I specialize in building machine learning models and deploying them as containerized web services.
 - I'm passionate about using data to understand unique problems, and using machine learning to provide value driven solutions. 
